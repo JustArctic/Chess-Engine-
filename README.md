@@ -219,7 +219,7 @@ This project demonstrates:
 
 ## Author
 
-**Your Name**
+**Allan Luong**
 
 HSC Software Engineering Major Project
 
@@ -227,8 +227,7 @@ Bonnyrigg High School
 
 ---
 
-## License
-
-This project is intended for educational purposes as part of the HSC Software Engineering course.
-
-Feel free to study and modify the code for learning purposes.
+#Copy Write 
+Code was orignally Made by Coding Sport
+But code was edited to include AI
+Video Link: https://www.youtube.com/watch?v=OpL0Gcfn4B4
