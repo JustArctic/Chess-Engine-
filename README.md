@@ -6,6 +6,9 @@ The project implements the official rules of chess and includes an AI opponent p
 
 ---
 
+BEFORE RUNNING main.py
+Please move assets out of all files
+
 ## Features
 
 ### Gameplay
