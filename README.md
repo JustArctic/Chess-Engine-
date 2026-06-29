@@ -8,6 +8,8 @@ The project implements the official rules of chess and includes an AI opponent p
 
 BEFORE RUNNING main.py
 Please move assets out of all files
+
+
 <img width="433" height="95" alt="image" src="https://github.com/user-attachments/assets/0c692958-f5d0-4bbb-9f87-169d3ef9a2af" />
 
 ## Features
