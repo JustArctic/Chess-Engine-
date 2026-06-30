@@ -1,0 +1,41 @@
+Requirements
+Software
+Python 3.12 or newer
+Visual Studio Code (recommended)
+Git (optional, for version control)
+Python Package
+
+Install the required library before running the project:
+
+pip install pygame
+Built-in Python Modules
+
+The following modules are included with Python and do not require installation:
+
+copy
+random
+os
+sys
+Project Assets
+
+The following folders and files must remain in the project directory:
+
+assets/images/imgs-80px/
+assets/images/imgs-128px/
+assets/sounds/move.wav
+assets/sounds/capture.wav
+Hardware Requirements
+Windows 10/11, macOS, or Linux
+4 GB RAM minimum (8 GB recommended)
+Keyboard and mouse
+250 MB available storage
+Display resolution of at least 800 × 800
+Running the Program
+
+Open a terminal in the project folder and run:
+
+python main.py
+
+or
+
+py main.py
